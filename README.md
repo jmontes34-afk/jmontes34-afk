@@ -1,16 +1,39 @@
-## Hi there 👋
+# 👨‍💻 Juan Pablo Montes García  
 
-<!--
-**jmontes34-afk/jmontes34-afk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Soy **estudiante de Ingeniería en Software (8º semestre, Universidad Autónoma de Querétaro)**.  
+Apasionado por el desarrollo web y las soluciones digitales, siempre en constante aprendizaje y abierto a nuevos retos.  
+Me adapto bien al trabajo en equipo, disfruto resolver problemas y busco crecer tanto a nivel **profesional** como **personal**.  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Tecnologías y herramientas  
+
+- **Lenguajes:** HTML, CSS, JavaScript, C++, SQL  
+- **Frameworks/Librerías:** Vue.js, Node.js, Bootstrap  
+- **Herramientas:** Git & GitHub, Visual Studio Code, Postman  
+- **Otros:** REST APIs, WordPress  
+
+---
+
+## 📂 Proyectos destacados  
+
+### 🔹 [Portafolio Web](https://github.com/TUUSUARIO/portafolio-web)  
+Desarrollo de un portafolio personal con **HTML, CSS y JavaScript**, enfocado en mostrar proyectos y experiencia.  
+
+### 🔹 [Clon de Interfaz con Vue.js](https://github.com/TUUSUARIO/proyecto-vue)  
+Proyecto académico replicando una interfaz dinámica utilizando **Vue.js y Bootstrap**.  
+
+### 🔹 [API REST con Node.js](https://github.com/TUUSUARIO/api-node)  
+Implementación de una API REST básica con **Node.js y Express**, conectada a base de datos en **SQL**.  
+
+---
+
+## 📫 Contacto  
+- ✉️ **Correo:** tuemail@example.com  
+- 💼 **LinkedIn:** [linkedin.com/in/TUUSUARIO](https://linkedin.com/in/TUUSUARIO)  
+- 🌐 **Portafolio web:** [TU-PAGINA.com](https://TU-PAGINA.com)  
+
+---
+
+✨ _Gracias por visitar mi perfil. ¡Explora mis proyectos y con gusto conectemos!_  
+
