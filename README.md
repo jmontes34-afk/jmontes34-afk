@@ -31,7 +31,7 @@ Implementación de una API REST básica con **Node.js y Express**, conectada a b
 ## 📫 Contacto  
 - ✉️ **Correo:** Juan2428kk@gmail.com 
 - 💼 **LinkedIn:** [www.linkedin.com/in/juan-pablo-montes-garcía-8a64022aa](www.linkedin.com/in/juan-pablo-montes-garcía-8a64022aa)  
-- 🌐 **Portafolio web:** [TU-PAGINA.com](https://TU-PAGINA.com)  
+   
 
 ---
 
