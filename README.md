@@ -20,8 +20,8 @@ Me adapto bien al trabajo en equipo, disfruto resolver problemas y busco crecer 
 ### 🔹 [Portafolio Web](https://github.com/TUUSUARIO/portafolio-web)  
 Desarrollo de un portafolio personal con **HTML, CSS y JavaScript**, enfocado en mostrar proyectos y experiencia.  
 
-### 🔹 [Clon de Interfaz con Vue.js](https://github.com/TUUSUARIO/proyecto-vue)  
-Proyecto académico replicando una interfaz dinámica utilizando **Vue.js y Bootstrap**.  
+### 🔹 [Brainblocks](https://github.com/TUUSUARIO/proyecto-vue)  
+Proyecto académico replicando un juego de tetris con un algoritmo de inteligencia artifical **Vue.js y Bootstrap**.  
 
 ### 🔹 [API REST con Node.js](https://github.com/TUUSUARIO/api-node)  
 Implementación de una API REST básica con **Node.js y Express**, conectada a base de datos en **SQL**.  
